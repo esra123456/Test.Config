@@ -1,2 +1,2 @@
-foo: '{cipher}a997944836b0efa6ea67fe06b10fdef57e0ea549f02d05aae82b7a488e628cf8'
-democonfigclient.message: Hello from dev environment
+foo: "https://opendata.nederlandwereldwijd.nl/v1/sources/nederlandwereldwijd/infotypes/traveladvice"
+
