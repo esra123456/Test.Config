@@ -1,9 +1,5 @@
 foo: '{cipher}ccb1d6d108ac0760a73115bc7e7cdce3cbf9157098e7515db3c205552429dc43'
 
 NhibernateSettings:
-{
- Configurations: {
    connection[dot]connection_string: 'User ID=ppg;Password=***;Host=192.168.0.138;Port=5432;Database=ppg;Pooling=true;Minimum Pool Size=0;Maximum Pool Size=100;Keepalive=10;'
    password: '{cipher}366ac61ce503981c64375cc98f67a46d632ccf202a39cf5ff066a801db8db08f'
- }
-}
